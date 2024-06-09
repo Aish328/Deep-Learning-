@@ -9,8 +9,13 @@ The dataset consists of aerial imagery of Dubai obtained by MBRSC satellites and
 CLASSES : 
 
 Building: #3C1098
+
 Land (unpaved area): #8429F6
+
 Road: #6EC1E4
+
 Vegetation: #FEDD3A
+
 Water: #E2A929
+
 Unlabeled: #9B9B9B
